@@ -1,3 +1,4 @@
+//main file
 #include<QApplication>
 #include "mainwindow.h"
 #include<QSplashScreen>
